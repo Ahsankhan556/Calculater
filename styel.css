@@ -52,3 +52,9 @@ color: #33ffd8;
 
 
 }
+@media (max-width:427px) {
+    .main{
+      width:  400px; 
+    }
+}
+
